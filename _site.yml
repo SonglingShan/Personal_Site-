@@ -1,6 +1,6 @@
 name: "Songling Shan"
 navbar:
-  title: "Songling SHan"
+  title: "Songling Shan"
   left:
     - text: "Home"
       href: index.html
